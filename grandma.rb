@@ -4,6 +4,6 @@ if phrase==phrase.upcase
 elsif phrase=="I LOVE YOU GRANDMA!"
   puts "I LOVE YOU TO PUMPKIN!"
 else
-  puts "HUH?! SPEAK UP, SONNY"
+  puts "HUH?! SPEAK UP,SONNY"
 end
 speak_to_grandma("hello")
