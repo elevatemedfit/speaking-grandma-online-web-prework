@@ -6,4 +6,3 @@ elsif phrase==phrase.upcase
 else
   print "HUH?! SPEAK UP,SONNY!"
 end
-
