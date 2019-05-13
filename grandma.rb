@@ -6,6 +6,5 @@ elsif phrase=="I LOVE YOU GRANDMA!"
 else
   puts "HUH?! SPEAK UP,SONNY!"
 end
-end
 
- speak_to_grandma('Hello')
+ speak_to_grandma('HELLO')
