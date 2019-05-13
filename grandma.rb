@@ -1,4 +1,4 @@
-phrase="I Love YOU GRANDMA!"
+def grandma_phrase(phrase)
 if phrase=="I LOVE YOU GRANDMA!"
   puts "I LOVE YOU TOO PUMPKIN!"
 elsif phrase==phrase.upcase
@@ -6,3 +6,4 @@ elsif phrase==phrase.upcase
 else
   puts "HUH?! SPEAK UP,SONNY!"
 end
+grandma_phrase('Hello')
