@@ -6,4 +6,3 @@ elsif phrase==phrase.upcase
 else
   puts "HUH?! SPEAK UP,SONNY!"
 end
-grandma_phrase('Hello')
